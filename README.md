@@ -47,44 +47,6 @@ $ whoami
 
 <br>
 
-### `ls ./featured`
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-**[create-project-struct](https://github.com/blackmarllborooo/create-project-struct)** ⭐ 17
-<br>
-CLI for scaffolding project structure — Go
-
-</td>
-<td width="50%" valign="top">
-
-**[raycaster](https://github.com/blackmarllborooo/raycaster)**
-<br>
-Real-time raycasting renderer built from scratch — Odin + raylib
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[building-materials-market-API](https://github.com/blackmarllborooo/building-materials-market-API)**
-<br>
-Reusable turnover-platform API — TypeScript
-
-</td>
-<td width="50%" valign="top">
-
-**[wheather-cli](https://github.com/blackmarllborooo/wheather-cli)**
-<br>
-Command-line weather lookup tool — TypeScript
-
-</td>
-</tr>
-</table>
-
-<br>
 
 ### `~/status --now`
 
